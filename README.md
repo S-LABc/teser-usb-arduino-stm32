@@ -11,3 +11,4 @@
 # Ссылки
 * [Видео проверки инициализации](https://youtu.be/9jlpHW8rlkc)
 * [Видео проверки заниженного сопротивления](https://youtu.be/fyskn_VxkL4)
+* [Второе способ проверки на КЗ](https://youtu.be/XNTCKgSgOB4)
